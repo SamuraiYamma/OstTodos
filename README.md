@@ -1,3 +1,5 @@
+Disclaimer: This is not my work. I make no claim that it is my own. Any modifications are for testing. 
+
 OST Todos Reference Application
 ===============================
 A domain driven .NET application built on <a href="http://www.ostusa.com/app-dev" target="_blank">OST's</a> [NDriven](https://github.com/OSTUSA/ndriven) framework.
